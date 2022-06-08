@@ -5,12 +5,10 @@ license = "GNU GPL 3.0"
 modId = "nbtdumpsterfire"
 version = "${file.jarVersion}"
 displayName = "NBTDumpsterFire"
-#displayURL="http://example.com/" #optional
-#logoFile="nbtdumpsterfire.png" #optional
-#credits="Thanks for this example mod goes to Java" #optional
-authors = "GibbDev" #optional
+displayURL="https://github.com/GibberishDev/NBT-Dumpster-Fire"
+authors = "GibbDev"
 description = '''
-
+Small clientside mod for datapack and modpack developers. Allows to print out in chat or store in json file nbt data of items and entities.
 '''
 [[dependencies.nbtdumpsterfire]]
 modId = "forge"
